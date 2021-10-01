@@ -1,5 +1,6 @@
 # custom-iiif
-IIIF content (manifests and collections) custom-made for specific projects and events
+
+IIIF content (manifests and collections) created by Bodleian staff for projects and events.
 
 ## Contents
 
